@@ -91,7 +91,13 @@ https://youtu.be/zExkCggxYq8
 ※左右ボタン同時押し1.5秒間でランダムモードON、同時押し５秒以上で強制リセット＆書き込みモードです。それぞれに対しブザー音が鳴りますので混同しないようにお願いします。
 
 ## 📜 ライセンス (License)
-このプロジェクトは [MIT License] のもとで公開されています。詳細は `LICENSE` ファイルをご覧ください。
+* Software (Firmware & Examples): MIT License
+
+    * ファームウェア(.uf2)やサンプルコード(.ino)は、MITライセンスの下で自由に利用・改変・再配布が可能です。
+
+* Hardware (Case Design): CC BY-SA 4.0
+
+    * 筐体データ(.stl)は、[hexatron]の作品をベースに、リミックスを行ったものです。CC BY-SAライセンスが適用されます。
 
 ## 👤 作者 (Author)
 * [らて]
