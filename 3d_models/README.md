@@ -44,7 +44,8 @@ Based on the original design, the following changes were made to fit the specifi
     (内部構造：専用基板や電池ボックスに合わせて、固定用リブやネジ穴の位置を完全に再設計しました。)
 * **Port Openings:** Adjusted the size and position of the USB/sensor/buttons ports.
     (ポート開口部：USBやセンサー、ボタン用の穴のサイズと位置を調整しました。)
-* **Dimensions:** Resized the overall dimensions to [WS2812B 8*8 SMD 5050].
-    (寸法：全体のサイズを [WS2812B 8*8 SMD 5050] 用に変更しました。)
+* **Dimensions:** Resized the overall dimensions to [WS2812B 8×8 SMD 5050].
+    (寸法：全体のサイズを [WS2812B 8×8 SMD 5050] 用に変更しました。)
 * **Aesthetics:** Modified the exterior details for better printability and style.
+
     (外観：印刷のしやすさとデザイン性を考慮し、外装のディテールを変更しました。)
